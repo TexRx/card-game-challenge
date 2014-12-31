@@ -1,0 +1,8 @@
+# This file lists the people who have contributed to this project
+#
+# Names should be added to this file as:
+#     Name <email address>
+
+Chris Wigley <cwigley@gmail.com>
+Erik Christianson <>
+Darren Lim <>
